@@ -24,3 +24,18 @@ EX : In the URL type, 'MainURL/branch', and press enter to get the details of th
 Note : Branch name should be correct, no need to worry about case sensitive.
 ```
 
+# Screenshots
+
+<h3>Landing page</h3>
+
+<img src = "Screenshots/11.png"/>
+
+
+<h3>After giving Branch name in the URL</h3>
+
+<img src = "Screenshots/2.png"/>
+
+
+# Thanks
+
+By Raju Osuri
